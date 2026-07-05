@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0057-insert-interval) |
 | [0198-house-robber](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0494-target-sum) |
 | [0986-interval-list-intersections](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0986-interval-list-intersections) |
 | [1109-corporate-flight-bookings](https://github.com/Nitinsingh200/daily_leetcode/tree/master/1109-corporate-flight-bookings) |
 ## Two Pointers
@@ -26,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
