@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0416-partition-equal-subset-sum) |
