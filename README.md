@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0494-target-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0986-interval-list-intersections](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0986-interval-list-intersections) |
 | [1109-corporate-flight-bookings](https://github.com/Nitinsingh200/daily_leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -61,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
