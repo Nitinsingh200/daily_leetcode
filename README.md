@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0986-interval-list-intersections](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0986-interval-list-intersections) |
 | [1109-corporate-flight-bookings](https://github.com/Nitinsingh200/daily_leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Nitinsingh200/daily_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/Nitinsingh200/daily_leetcode/tree/master/1143-longest-common-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Nitinsingh200/daily_leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Backtracking
 |  |
 | ------- |
