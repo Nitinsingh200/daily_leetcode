@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0502-ipo) |
 | [0643-maximum-average-subarray-i](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0986-interval-list-intersections](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0986-interval-list-intersections) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0502-ipo](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0502-ipo) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0502-ipo) |
 ## Bucket Sort
 |  |
 | ------- |
