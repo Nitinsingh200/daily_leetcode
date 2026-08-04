@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Nitinsingh200/daily_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
